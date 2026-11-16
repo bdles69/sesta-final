@@ -1,3 +1,3 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Test Channel" group-title="Sports",Test Channel
-http://livebox.pro:80/live/Raj1234/Raj1234/148.ts
+http://103.89.248.10:8082/BTV/tracks-v1a1/mono.m3u8

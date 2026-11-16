@@ -1,112 +1,177 @@
-
 #EXTM3U
-
-# ===== LIVE CHANNELS =====
 
 #EXTINF:-1 tvg-name="LIVE 1 ⭐" tvg-logo="" group-title="LIVE",LIVE 1 ⭐
 http://103.89.248.10:8082/1LIVE/index.m3u8
-
 #EXTINF:-1 tvg-name="LIVE 2 ⭐" tvg-logo="" group-title="LIVE",LIVE 2 ⭐
 http://103.89.248.10:8082/2LIVE/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-name="LIVE CRICKET 1 ⭐" tvg-logo="https://i.postimg.cc/TyV3JN7W/LIVE-CRICKET-removebg-preview.png" group-title="LIVE",LIVE CRICKET 1 ⭐
 http://103.89.248.10:8082/LIVE-CRICKET/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-name="LIVE CRICKET 2 ⭐" tvg-logo="https://i.postimg.cc/TyV3JN7W/LIVE-CRICKET-removebg-preview.png" group-title="LIVE",LIVE CRICKET 2 ⭐
 http://103.89.248.10:8082/LIVE-CRICKET-1/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-name="LIVE FOOTBALL 1 ⭐" tvg-logo="https://i.postimg.cc/WD35Mx1P/LIVE-FOOTBALL-removebg-preview.png" group-title="LIVE",LIVE FOOTBALL 1 ⭐
 http://103.89.248.10:8082/LIVE-FOOTBALL-1/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-name="LIVE FOOTBALL 2 ⭐" tvg-logo="https://i.postimg.cc/WD35Mx1P/LIVE-FOOTBALL-removebg-preview.png" group-title="LIVE",LIVE FOOTBALL 2 ⭐
 http://103.89.248.10:8082/LIVE-FOOTBALL/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-name="LIVE FOOTBALL 3 ⭐" tvg-logo="https://i.postimg.cc/WD35Mx1P/LIVE-FOOTBALL-removebg-preview.png" group-title="LIVE",LIVE FOOTBALL 3 ⭐
 http://103.89.248.10:8082/LIVE-FOOTBALL-2/tracks-v1a1/mono.m3u8
 
-
-# ===== T SPORTS =====
-
 #EXTINF:-1 tvg-name="T Sports ⭐" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/T_Sports_logo.svg" group-title="SPORTS",T Sports ⭐
 http://103.89.248.10:8082/T-SPORTS/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-name="T Sports [Server 2]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/T_Sports_logo.svg" group-title="SPORTS",T Sports [Server 2]
+#EXTINF:-1 tvg-name="T Sports HD [Server 2]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/T_Sports_logo.svg" group-title="SPORTS",T Sports HD [Server 2]
 http://103.16.24.4:8083/14.m3u8
-
-#EXTINF:-1 tvg-name="T Sports [Server 3]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/T_Sports_logo.svg" group-title="SPORTS",T Sports [Server 3]
+#EXTINF:-1 tvg-name="T Sports HD [Server 3]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/T_Sports_logo.svg" group-title="SPORTS",T Sports HD [Server 3]
 http://livebox.pro:80/live/Raj1234/Raj1234/18452.ts
-
-#EXTINF:-1 tvg-name="T Sports [Server 4]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/T_Sports_logo.svg" group-title="SPORTS",T Sports [Server 4]
+#EXTINF:-1 tvg-name="T Sports HD [Server 4]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/T_Sports_logo.svg" group-title="SPORTS",T Sports HD [Server 4]
 http://livebox.pro:80/live/Raj1234/Raj1234/113069.ts
-
-#EXTINF:-1 tvg-name="T Sports [Server 5]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/T_Sports_logo.svg" group-title="SPORTS",T Sports [Server 5]
+#EXTINF:-1 tvg-name="T Sports HD [Server 5]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/T_Sports_logo.svg" group-title="SPORTS",T Sports HD [Server 5]
 http://livebox.pro:80/live/Raj1234/Raj1234/130714.ts
-
-
-# ===== STAR SPORTS =====
 
 #EXTINF:-1 tvg-name="Star Sports 1 ⭐" tvg-logo="https://i.postimg.cc/brsfp7HT/st1s.png" group-title="SPORTS",Star Sports 1 ⭐
 http://103.89.248.10:8082/STAR-SPORTS-1/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-name="Star Sports 1 HD" tvg-logo="https://i.postimg.cc/brsfp7HT/st1s.png" group-title="SPORTS",Star Sports 1 HD
 http://livebox.pro:80/live/Raj1234/Raj1234/124281.ts
-
 #EXTINF:-1 tvg-name="Star Sports 1 Hindi HD" tvg-logo="https://i.postimg.cc/brsfp7HT/st1s.png" group-title="SPORTS",Star Sports 1 Hindi HD
 http://livebox.pro:80/live/Raj1234/Raj1234/124287.ts
-
 #EXTINF:-1 tvg-name="Star Sports 2 ⭐" tvg-logo="https://i.postimg.cc/nrR7QDmL/wwww.png" group-title="SPORTS",Star Sports 2 ⭐
 http://103.89.248.10:8082/STAR-SPORTS-2/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-name="Star Sports 2 HD" tvg-logo="https://i.postimg.cc/nrR7QDmL/wwww.png" group-title="SPORTS",Star Sports 2 HD
 http://livebox.pro:80/live/Raj1234/Raj1234/124284.ts
-
 #EXTINF:-1 tvg-name="Star Sports 2 Hindi HD" tvg-logo="https://i.postimg.cc/nrR7QDmL/wwww.png" group-title="SPORTS",Star Sports 2 Hindi HD
 http://livebox.pro:80/live/Raj1234/Raj1234/213049.ts
-
 #EXTINF:-1 tvg-name="Star Sports 3 ⭐" tvg-logo="https://i.postimg.cc/6Qv0JYvh/stb3.png" group-title="SPORTS",Star Sports 3 ⭐
 http://103.89.248.10:8082/Star-sport-3/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-name="Star Sports 3" tvg-logo="https://i.postimg.cc/6Qv0JYvh/stb3.png" group-title="SPORTS",Star Sports 3
 http://livebox.pro:80/live/Raj1234/Raj1234/1080.ts
-
-
-# ===== STAR SPORTS SELECT =====
-
 #EXTINF:-1 tvg-name="Star Sports Select 1 ⭐" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/Star-sports-select-1.png/revision/latest?cb=20230128174436" group-title="SPORTS",Star Sports Select 1 ⭐
 http://103.89.248.10:8082/Star-sports-select-1/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-name="Star Sports Select 2 ⭐" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/Star-sports-select-2.png" group-title="SPORTS",Star Sports Select 2 ⭐
 http://103.89.248.10:8082/Star-sports-select-2/tracks-v1/mono.m3u8
-
 #EXTINF:-1 tvg-name="Star Sports Select 1 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/Star-sports-select-1.png/revision/latest?cb=20230128174436" group-title="SPORTS",Star Sports Select 1 HD
 http://livebox.pro:80/live/Raj1234/Raj1234/238.ts
-
 #EXTINF:-1 tvg-name="Star Sports Select 2 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/Star-sports-select-2.png" group-title="SPORTS",Star Sports Select 2 HD
 http://livebox.pro:80/live/Raj1234/Raj1234/148801.ts
 
-
-# ===== SONY TEN =====
-
 #EXTINF:-1 tvg-name="Sony Ten 1 ⭐" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_SD_Logo_CLR.png" group-title="SPORTS",Sony Ten 1 ⭐
 http://103.89.248.10:8082/Sony-TEN-1/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-name="Sony Ten 2 ⭐" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen2_SD_Logo_CLR.png" group-title="SPORTS",Sony Ten 2 ⭐
 http://103.89.248.10:8082/Sony-TEN-2/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-name="Sony Ten 3 ⭐" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_Sports_Ten_3_Hindi.png" group-title="SPORTS",Sony Ten 3 ⭐
 http://103.89.248.10:8082/sony-ten3/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-name="Sony Ten 5 ⭐" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_SD_Logo_CLR.png" group-title="SPORTS",Sony Ten 5 ⭐
 http://103.89.248.10:8082/Sony-TEN-5/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-name="Sony Ten 1 HD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_SD_Logo_CLR.png" group-title="SPORTS",Sony Ten 1 HD
 http://livebox.pro:80/live/Raj1234/Raj1234/154.ts
-
 #EXTINF:-1 tvg-name="Sony Ten 2 HD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen2_SD_Logo_CLR.png" group-title="SPORTS",Sony Ten 2 HD
 http://livebox.pro:80/live/Raj1234/Raj1234/31314.ts
-
 #EXTINF:-1 tvg-name="Sony Ten 3 HD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_Sports_Ten_3_Hindi.png" group-title="SPORTS",Sony Ten 3 HD
 http://livebox.pro:80/live/Raj1234/Raj1234/146.ts
-
 #EXTINF:-1 tvg-name="Sony Ten 5 HD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_SD_Logo_CLR.png" group-title="SPORTS",Sony Ten 5 HD
 http://livebox.pro:80/live/Raj1234/Raj1234/176.ts
+
+#EXTINF:-1 tvg-name="PTV ⭐" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="SPORTS",PTV ⭐
+http://103.89.248.10:8082/PTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="PTV HD [Server 2]" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="SPORTS",PTV HD [Server 2]
+http://livebox.pro:80/live/Raj1234/Raj1234/89.ts
+#EXTINF:-1 tvg-name="PTV HD [Server 3]" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="SPORTS",PTV HD [Server 3]
+http://livebox.pro:80/live/Raj1234/Raj1234/61674.ts
+
+#EXTINF:-1 tvg-name="A Sports ⭐" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png" group-title="SPORTS",A Sports ⭐
+http://103.89.248.10:8082/A-SPORTS/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="A Sports HD [Server 2]" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png" group-title="SPORTS",A Sports HD [Server 2]
+http://livebox.pro:80/live/Raj1234/Raj1234/43444.ts
+#EXTINF:-1 tvg-name="A Sports HD [Server 3]" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png" group-title="SPORTS",A Sports HD [Server 3]
+http://livebox.pro:80/live/Raj1234/Raj1234/43447.ts
+
+#EXTINF:-1 tvg-name="Ten Cricket ⭐" tvg-logo="https://ethnicchannels.com/images/channeldetail/ten-cricket/ten-ckt-logo.png" group-title="SPORTS",Ten Cricket ⭐
+http://103.89.248.10:8082/Ten-Cricket-HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Ten Cricket HD" tvg-logo="https://ethnicchannels.com/images/channeldetail/ten-cricket/ten-ckt-logo.png" group-title="SPORTS",Ten Cricket HD
+http://livebox.pro:80/live/Raj1234/Raj1234/514856.ts
+#EXTINF:-1 tvg-name="Ten Sports HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/Ten_Sports_Logo.png" group-title="SPORTS",Ten Sports HD
+http://livebox.pro:80/live/Raj1234/Raj1234/98.ts
+
+#EXTINF:-1 tvg-name="Fox Sports 501 HD ⭐" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mMJL3P-vcTLif2h4V_S17ksNozzOICQKXMMmfdowlx9Q=s900-c-k-c0x00ffffff-no-rj" group-title="SPORTS",Fox Sports 501 HD ⭐
+http://103.89.248.10:8082/FOX-SPORTS-CRICKET/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Fox Sports 501 HD [Server 2]" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mMJL3P-vcTLif2h4V_S17ksNozzOICQKXMMmfdowlx9Q=s900-c-k-c0x00ffffff-no-rj" group-title="SPORTS",Fox Sports 501 HD [Server 2]
+http://livebox.pro:80/live/Raj1234/Raj1234/1856.ts
+
+#EXTINF:-1 tvg-name="Sky Sports Cricket ⭐" tvg-logo="https://i.postimg.cc/gj8pK11p/skycricket.jpg" group-title="SPORTS",Sky Sports Cricket ⭐
+http://103.89.248.10:8082/Sky-Sports-Cricket/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Sky Sports Cricket [Server 2]" tvg-logo="https://i.postimg.cc/gj8pK11p/skycricket.jpg" group-title="SPORTS",Sky Sports Cricket [Server 2]
+http://livebox.pro:80/live/Raj1234/Raj1234/186606.ts
+#EXTINF:-1 tvg-name="Sky Sports Football ⭐" tvg-logo="https://i.postimg.cc/FKzQ6Yws/skyfootball.jpg" group-title="SPORTS",Sky Sports Football ⭐
+http://103.89.248.10:8082/SKY-Sports-Football/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Sky Sports Football [Server 2]" tvg-logo="https://i.postimg.cc/FKzQ6Yws/skyfootball.jpg" group-title="SPORTS",Sky Sports Football [Server 2]
+http://livebox.pro:80/live/Raj1234/Raj1234/23334.ts
+#EXTINF:-1 tvg-name="Sky Sports Football [Server 3]" tvg-logo="https://i.postimg.cc/FKzQ6Yws/skyfootball.jpg" group-title="SPORTS",Sky Sports Football [Server 3]
+http://livebox.pro:80/live/Raj1234/Raj1234/19.ts
+#EXTINF:-1 tvg-name="Sky Sports Main Event ⭐" tvg-logo="https://i.postimg.cc/JskYLCb6/skymainevent.jpg" group-title="SPORTS",Sky Sports Main Event ⭐
+http://103.89.248.10:8082/Sky-Sports-Main-Event/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Sky Sports Main Event [Server 2]" tvg-logo="https://i.postimg.cc/JskYLCb6/skymainevent.jpg" group-title="SPORTS",Sky Sports Main Event [Server 2]
+http://livebox.pro:80/live/Raj1234/Raj1234/186597.ts
+#EXTINF:-1 tvg-name="Sky Sports Premier League ⭐" tvg-logo="https://i.postimg.cc/k2KsHFCJ/05a76e01-6182-4ad0-8603-ac935ee3a612.jpg" group-title="SPORTS",Sky Sports Premier League ⭐
+http://103.89.248.10:8082/Sky-Sports-premier-League/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Sky Sports Premier League [Server 2]" tvg-logo="https://i.postimg.cc/k2KsHFCJ/05a76e01-6182-4ad0-8603-ac935ee3a612.jpg" group-title="SPORTS",Sky Sports Premier League [Server 2]
+http://livebox.pro:80/live/Raj1234/Raj1234/23342.ts
+#EXTINF:-1 tvg-name="Sky Sports Premier League [Server 3]" tvg-logo="https://i.postimg.cc/k2KsHFCJ/05a76e01-6182-4ad0-8603-ac935ee3a612.jpg" group-title="SPORTS",Sky Sports Premier League [Server 3]
+http://livebox.pro:80/live/Raj1234/Raj1234/9891.ts
+
+#EXTINF:-1 tvg-name="CricBuzz ⭐" tvg-logo="https://thumb.wikimedia.org/wikipedia/en/thumb/7/7e/Cricbuzz_Logo.svg/1280px-Cricbuzz_Logo.svg.png" group-title="SPORTS",CricBuzz ⭐
+http://103.89.248.10:8082/ASIA-CUP-2025/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Willow HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Willow_2023_stacked.svg/revision/latest?cb=20240927132511" group-title="SPORTS",Willow HD
+http://livebox.pro:80/live/Raj1234/Raj1234/215.ts
+#EXTINF:-1 tvg-name="Willow 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Willow_2023_stacked.svg/revision/latest?cb=20240927132511" group-title="SPORTS",Willow 2
+http://livebox.pro:80/live/Raj1234/Raj1234/23943.ts
+#EXTINF:-1 tvg-name="Willow 2 [Server 2]" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Willow_2023_stacked.svg/revision/latest?cb=20240927132511" group-title="SPORTS",Willow 2 [Server 2]
+http://livebox.pro:80/live/Raj1234/Raj1234/5040.ts
+
+#EXTINF:-1 tvg-name="TNT Sports 1 ⭐" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/TNT_Sports_1_Stacked.svg" group-title="SPORTS",TNT Sports 1 ⭐
+http://103.89.248.10:8082/TNT-Sports-1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="TNT Sports 2 ⭐" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/TNT_Sports_2_Stacked.svg" group-title="SPORTS",TNT Sports 2 ⭐
+http://103.89.248.10:8082/TNT-Sports-2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="TNT Sports 3 ⭐" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/TNT_Sports_3_Stacked.svg" group-title="SPORTS",TNT Sports 3 ⭐
+http://103.89.248.10:8082/TNT-Sports-3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="TNT Sports 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/TNT_Sports_1_Stacked.svg" group-title="SPORTS",TNT Sports 1
+http://livebox.pro:80/live/Raj1234/Raj1234/186627.ts
+#EXTINF:-1 tvg-name="TNT Sports 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/TNT_Sports_2_Stacked.svg" group-title="SPORTS",TNT Sports 2
+http://livebox.pro:80/live/Raj1234/Raj1234/186628.ts
+#EXTINF:-1 tvg-name="TNT Sports 3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/TNT_Sports_3_Stacked.svg" group-title="SPORTS",TNT Sports 3
+http://livebox.pro:80/live/Raj1234/Raj1234/148090.ts
+#EXTINF:-1 tvg-name="TNT Sports 4" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6b/TNT_Sports_4_logo.png" group-title="SPORTS",TNT Sports 4
+http://livebox.pro:80/live/Raj1234/Raj1234/186630.ts
+
+#EXTINF:-1 tvg-name="Supersports Cricket ⭐" tvg-logo="https://i.postimg.cc/ZvP6nxxD/Gemini-Generated-Image-nzu0nfnzu0nfnzu0-removebg-preview.png" group-title="SPORTS",Supersports Cricket ⭐
+http://103.89.248.10:8082/SUPERSPORTS-CRICKET/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Supersports Cricket [Server 2]" tvg-logo="https://i.postimg.cc/ZvP6nxxD/Gemini-Generated-Image-nzu0nfnzu0nfnzu0-removebg-preview.png" group-title="SPORTS",Supersports Cricket [Server 2]
+http://livebox.pro:80/live/Raj1234/Raj1234/158442.ts
+#EXTINF:-1 tvg-name="Supersports Cricket [Server 3]" tvg-logo="https://i.postimg.cc/ZvP6nxxD/Gemini-Generated-Image-nzu0nfnzu0nfnzu0-removebg-preview.png" group-title="SPORTS",Supersports Cricket [Server 3]
+http://livebox.pro:80/live/Raj1234/Raj1234/2496.ts
+#EXTINF:-1 tvg-name="Supersports La Liga ⭐" tvg-logo="https://i.postimg.cc/21z1XDWt/Gemini-Generated-Image-sx9rfssx9rfssx9r-removebg-preview.png" group-title="SPORTS",Supersports La Liga ⭐
+http://103.89.248.10:8082/SUPERSPORTS-LALIGA/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Supersports La Liga [Server 2]" tvg-logo="https://i.postimg.cc/21z1XDWt/Gemini-Generated-Image-sx9rfssx9rfssx9r-removebg-preview.png" group-title="SPORTS",Supersports La Liga [Server 2]
+http://livebox.pro:80/live/Raj1234/Raj1234/768.ts
+
+#EXTINF:-1 tvg-name="Bein Sports 1 ⭐" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="SPORTS",Bein Sports 1 ⭐
+http://103.89.248.10:8082/Bein-hd/tracks-v1/mono.m3u8
+#EXTINF:-1 tvg-name="Bein Sports 2 ⭐" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" group-title="SPORTS",Bein Sports 2 ⭐
+http://103.89.248.10:8082/BEIN-SPORTS-2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Bein Sports 3 ⭐" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png" group-title="SPORTS",Bein Sports 3 ⭐
+http://103.89.248.10:8082/BEIN-SPORTS-3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Bein Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="SPORTS",Bein Sports 1
+http://27.124.71.27/beIN_Sports_1/index.m3u8
+#EXTINF:-1 tvg-name="Bein Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" group-title="SPORTS",Bein Sports 2
+http://27.124.71.27/beIN_Sports_2/index.m3u8
+#EXTINF:-1 tvg-name="Bein Sports 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png" group-title="SPORTS",Bein Sports 3
+http://27.124.71.27/beIN_Sports_3/index.m3u8
+#EXTINF:-1 tvg-name="Bein Xtra" tvg-logo="https://i.postimg.cc/mZXg2GyT/Gemini-Generated-Image-h5qf27h5qf27h5qf-removebg-preview.png" group-title="SPORTS",Bein Xtra
+https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlistR1080p.m3u8
+
+#EXTINF:-1 tvg-name="Unite8 Sports 1 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/Unite8_Sports_1_HD_%282026%29.svg/revision/latest?cb=20260808170412" group-title="SPORTS",Unite8 Sports 1 HD
+http://livebox.pro:80/live/Raj1234/Raj1234/741567.ts
+#EXTINF:-1 tvg-name="Unite8 Sports 2 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/20/Unite8_Sports_2_HD_%282026%29.svg/revision/latest/scale-to-width-down/1200?cb=20260808170644" group-title="SPORTS",Unite8 Sports 2 HD
+http://livebox.pro:80/live/Raj1234/Raj1234/745202.ts
+#EXTINF:-1 tvg-name="Geo Super HD" tvg-logo="https://crystalpng.com/wp-content/uploads/2025/04/geo-super-logo.png" group-title="SPORTS",Geo Super HD
+http://livebox.pro:80/live/Raj1234/Raj1234/101.ts
+#EXTINF:-1 tvg-name="Eurosport ⭐" tvg-logo="https://logos-world.net/wp-content/uploads/2022/05/Eurosport-Emblem.png" group-title="SPORTS",Eurosport ⭐
+http://103.89.248.10:8082/Eurosports/tracks-v1/mono.m3u8
+#EXTINF:-1 tvg-name="Eurosport HD" tvg-logo="https://logos-world.net/wp-content/uploads/2022/05/Eurosport-Emblem.png" group-title="SPORTS",Eurosport HD
+http://livebox.pro:80/live/Raj1234/Raj1234/23308.ts

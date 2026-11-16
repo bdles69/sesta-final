@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="Test Channel" group-title="Sports",Test Channel
+http://livebox.pro:80/live/Raj1234/Raj1234/148.ts

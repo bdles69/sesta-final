@@ -310,25 +310,23 @@ http://livebox.pro:80/live/Raj1234/Raj1234/5856.ts
 http://livebox.pro:80/live/Raj1234/Raj1234/825633.ts
 #EXTINF:-1 tvg-logo="https://d2ljy97uzhlwv2.cloudfront.net/sonypicturesnetworksindia/logo/34_252.png" group-title="ENTERTAINMENT",Sony Pix HD
 http://livebox.pro:80/live/Raj1234/Raj1234/98846.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a7/Star_Bharat_Logo.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" group-title="ENTERTAINMENT",Star Bharat HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a7/Star_Bharat_Logo.png" group-title="ENTERTAINMENT",Star Bharat HD
 http://livebox.pro:80/live/Raj1234/Raj1234/98855.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Star_Jalsha_HD_2019_Chalo_Paltai.png" group-title="ENTERTAINMENT",Star Jalsha HD
 http://103.89.248.10:8082/Star_jalsha/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Star_Jalsha_HD_2019_Chalo_Paltai.png" group-title="ENTERTAINMENT",Jalsha Movies HD
 http://103.89.248.10:8082/JALSHA-MOVIES/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/32/StarPlus_logo_%282018%29.png/" group-title="ENTERTAINMENT",Star Plus HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/32/StarPlus_logo_%282018%29.png" group-title="ENTERTAINMENT",Star Plus HD
 http://livebox.pro:80/live/Raj1234/Raj1234/9366.ts
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/31/2/star-gold-logo-png_seeklogo-310758.png" group-title="ENTERTAINMENT",Star Gold HD ⭐
 http://103.89.248.10:8082/star-gold/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2f/Star_Gold_Select_HD.svg/revision/latest?cb=20211216003639" group-title="ENTERTAINMENT",Star Gold Select HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2f/Star_Gold_Select_HD.svg" group-title="ENTERTAINMENT",Star Gold Select HD
 http://livebox.pro:80/live/Raj1234/Raj1234/98859.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Star_Gold_2.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" group-title="ENTERTAINMENT",Star Gold 2 HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Star_Gold_2.svg" group-title="ENTERTAINMENT",Star Gold 2 HD
 http://livebox.pro:80/live/Raj1234/Raj1234/157081.ts
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logofanon2/images/0/08/Star_Gold_Thrills_2023.webp/revision/latest?cb=20251021154943" group-title="ENTERTAINMENT",Star Gold Thrills
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logofanon2/images/0/08/Star_Gold_Thrills_2023.webp" group-title="ENTERTAINMENT",Star Gold Thrills
 http://livebox.pro:80/live/Raj1234/Raj1234/773735.ts
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logosfake/images/8/8a/Star_Gold_Romance.svg/revision/latest?cb=20250104000253" group-title="ENTERTAINMENT",Star Gold Romance
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logosfake/images/8/8a/Star_Gold_Romance.svg" group-title="ENTERTAINMENT",Star Gold Romance
 http://livebox.pro:80/live/Raj1234/Raj1234/972.ts
-#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/3840px-STAR_Movies_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" group-title="ENTERTAINMENT",Star Movies HD
+#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/3840px-STAR_Movies_logo.svg.png" group-title="ENTERTAINMENT",Star Movies HD
 http://livebox.pro:80/live/Raj1234/Raj1234/98842.ts
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/SMSHD.png/revision/latest?cb=20240313194438" group-title="ENTERTAINMENT",Star Movies Select HD
-http://livebox.pro:80/live/Raj1234/Raj1234/98843.ts

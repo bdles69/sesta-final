@@ -330,3 +330,39 @@ http://livebox.pro:80/live/Raj1234/Raj1234/773735.ts
 http://livebox.pro:80/live/Raj1234/Raj1234/972.ts
 #EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/3840px-STAR_Movies_logo.svg.png" group-title="ENTERTAINMENT",Star Movies HD
 http://livebox.pro:80/live/Raj1234/Raj1234/98842.ts
+
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/63/2/zee-bangla-logo-png_seeklogo-630697.png" group-title="ENTERTAINMENT",Zee Bangla ⭐
+http://103.89.248.10:8082/zee-bangla/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/63/2/zee-bangla-logo-png_seeklogo-630697.png" group-title="ENTERTAINMENT",Zee Bangla HD
+http://livebox.pro:80/live/Raj1234/Raj1234/98881.ts
+#EXTINF:-1 tvg-logo="https://static.cdnlogo.com/logos/z/84/zee-bangla-cinema_thumb.png" group-title="ENTERTAINMENT",Zee Bangla Cinema ⭐
+http://103.89.248.10:8082/ZEE-BANGLA-CINEMA/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://static.cdnlogo.com/logos/z/37/zee-tv-hd_thumb.png" group-title="ENTERTAINMENT",Zee TV HD
+http://livebox.pro:80/live/Raj1234/Raj1234/98850.ts
+#EXTINF:-1 tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-256,q:85/https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/490_144.png" group-title="ENTERTAINMENT",Zee Cinema HD
+http://livebox.pro:80/live/Raj1234/Raj1234/98860.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Zee_Bollywood_2025.svg" group-title="ENTERTAINMENT",Zee Bollywood
+http://livebox.pro:80/live/Raj1234/Raj1234/966.ts
+#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Zee_Action_2025.svg/3840px-Zee_Action_2025.svg.png" group-title="ENTERTAINMENT",Zee Action
+http://livebox.pro:80/live/Raj1234/Raj1234/967.ts
+#EXTINF:-1 tvg-logo="https://static.cdnlogo.com/logos/z/99/zee-classic.svg" group-title="ENTERTAINMENT",Zee Classic
+http://livebox.pro:80/live/Raj1234/Raj1234/7064.ts
+#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/%26Pictures_2025.svg/960px-%26Pictures_2025.svg.png" group-title="ENTERTAINMENT",&pictures HD
+http://livebox.pro:80/live/Raj1234/Raj1234/98856.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/Zing_2023_logo.png" group-title="ENTERTAINMENT",Zing
+http://livebox.pro:80/live/Raj1234/Raj1234/970.ts
+
+#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Colors_TV_logo.svg/250px-Colors_TV_logo.svg.png" group-title="ENTERTAINMENT",COLORS HD
+http://livebox.pro:80/live/Raj1234/Raj1234/98851.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Colors_Bangla.png" group-title="ENTERTAINMENT",COLORS Bangla HD ⭐
+http://103.89.248.10:8082/Colors-Bangla/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8c/Colors_Bangla_Cinema.png" group-title="ENTERTAINMENT",COLORS Bangla Cinema ⭐
+http://103.89.248.10:8082/COLORS-BANGLA-CINEMA/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logofanon2/images/e/e7/Untitled1739_20250223083432.png" group-title="ENTERTAINMENT",COLORS Cineplex HD
+http://livebox.pro:80/live/Raj1234/Raj1234/98908.ts
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/a9e26cc44f2e0b63ac31cfbfc56eeae0.png" group-title="ENTERTAINMENT",COLORS Cineplex Bollywood
+http://live.balajibroadband.com:3500/live/1763.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/a9e26cc44f2e0b63ac31cfbfc56eeae0.png" group-title="ENTERTAINMENT",COLORS Cineplex Bollywood [Server 2]
+http://livebox.pro:80/live/Raj1234/Raj1234/37074.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/Colors_Infinity.png" group-title="ENTERTAINMENT",COLORS Infinity HD
+http://livebox.pro:80/live/Raj1234/Raj1234/98879.ts

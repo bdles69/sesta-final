@@ -379,3 +379,18 @@ http://103.89.248.10:8082/HUM-TV/tracks-v1a1/mono.m3u8
 http://103.89.248.10:8082/Hum-masala/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e7/Hum_Sitaray_Logo.png" group-title="ENTERTAINMENT",HUM Sitaray ⭐
 http://103.89.248.10:8082/Hum-Sitarey/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SBBCE_LOGO_NEW_AI_SD.png" group-title="DOCUMENTARY",Sony BBC Earth ⭐
+http://103.89.248.10:8082/BBC-Earth/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/Discovery_Channel_2008.png" group-title="DOCUMENTARY",Discovery HD ⭐
+http://103.89.248.10:8082/DISCOVERY-HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Logo_Chaine_National_Geographic_Channel.png" group-title="DOCUMENTARY",National Geographic ⭐
+http://103.89.248.10:8082/National-geo-graphy-bangla/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/InvestigationDiscovery.png" group-title="DOCUMENTARY",Investigation Discovery ⭐
+http://103.89.248.10:8082/Investigation-Discovery/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Discovery_Science_-_Logo_2012.svg/960px-Discovery_Science_-_Logo_2012.svg.png" group-title="DOCUMENTARY",Discovery Science ⭐
+http://103.89.248.10:8082/Discovery-Science/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/Travelxp_HD.svg" group-title="DOCUMENTARY",Travel XP ⭐
+http://103.89.248.10:8082/travel-xp/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_Nat_Geo_Wild.svg/1280px-Logo_Nat_Geo_Wild.svg.png" group-title="DOCUMENTARY",Nat Geo Wild ⭐
+http://103.89.248.10:8082/National-geo-graphy-bangla/tracks-v1a1/mono.m3u8

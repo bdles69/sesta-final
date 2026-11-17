@@ -366,3 +366,16 @@ http://live.balajibroadband.com:3500/live/1763.m3u8
 http://livebox.pro:80/live/Raj1234/Raj1234/37074.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/Colors_Infinity.png" group-title="ENTERTAINMENT",COLORS Infinity HD
 http://livebox.pro:80/live/Raj1234/Raj1234/98879.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="ENTERTAINMENT",HBO 2
+http://livebox.pro:80/live/Raj1234/Raj1234/185.ts
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/B4U_MOVIES_2014.png" group-title="ENTERTAINMENT",B4U Movies ⭐
+http://103.89.248.10:8082/B4U-MOVIES/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://mytimemovienetwork.com/wp-content/uploads/elementor/thumbs/logo-white-ovbvbhqmsdprb6sqz8bdil61k1zcy8bv2whim3g1os.png" group-title="ENTERTAINMENT",My Time ⭐
+http://103.89.248.10:8082/my-time/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://crystalpng.com/wp-content/uploads/2025/04/hum-logo.png" group-title="ENTERTAINMENT",HUM TV ⭐
+http://103.89.248.10:8082/HUM-TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_632/a2b8c3190491277.65bb9e0eea3f5.png" group-title="ENTERTAINMENT",HUM Masala ⭐
+http://103.89.248.10:8082/Hum-masala/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e7/Hum_Sitaray_Logo.png" group-title="ENTERTAINMENT",HUM Sitaray ⭐
+http://103.89.248.10:8082/Hum-Sitarey/tracks-v1a1/mono.m3u8

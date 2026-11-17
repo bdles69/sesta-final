@@ -1,8 +1,8 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="LIVE 1 ⭐" tvg-logo="" group-title="LIVE",LIVE 1 ⭐
+#EXTINF:-1 tvg-name="LIVE Sports 1 ⭐" tvg-logo="" group-title="LIVE",LIVE 1 ⭐
 http://103.89.248.10:8082/1LIVE/index.m3u8
-#EXTINF:-1 tvg-name="LIVE 2 ⭐" tvg-logo="" group-title="LIVE",LIVE 2 ⭐
+#EXTINF:-1 tvg-name="LIVE Sports 2 ⭐" tvg-logo="" group-title="LIVE",LIVE 2 ⭐
 http://103.89.248.10:8082/2LIVE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="LIVE CRICKET 1 ⭐" tvg-logo="https://i.postimg.cc/TyV3JN7W/LIVE-CRICKET-removebg-preview.png" group-title="LIVE",LIVE CRICKET 1 ⭐
 http://103.89.248.10:8082/LIVE-CRICKET/tracks-v1a1/mono.m3u8
@@ -282,3 +282,53 @@ http://livebox.pro:80/live/Raj1234/Raj1234/20925.ts
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0a/Super_Hungama_logo_2023.png/revision/latest/scale-to-width-down/200?cb=20260830104002" group-title="KIDS",Super Hungama
 http://livebox.pro:80/live/Raj1234/Raj1234/18456.ts
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="ENTERTAINMENT",Sony Television HD
+http://livebox.pro:80/live/Raj1234/Raj1234/98854.ts
+#EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png" group-title="ENTERTAINMENT",Sony MAX HD ⭐
+http://103.89.248.10:8082/SONY-MAX/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png" group-title="ENTERTAINMENT",Sony MAX HD
+http://livebox.pro:80/live/Raj1234/Raj1234/9373.ts
+#EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX1.png" group-title="ENTERTAINMENT",Sony MAX 1
+http://live.balajibroadband.com:3500/live/3418.m3u8
+#EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX2.png" group-title="ENTERTAINMENT",Sony MAX 2 ⭐
+http://103.89.248.10:8082/sony-max2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://d2ljy97uzhlwv2.cloudfront.net/sonypicturesnetworksindia/logo/33_247.png" group-title="ENTERTAINMENT",Sony SAB HD
+http://livebox.pro:80/live/Raj1234/Raj1234/98853.ts
+#EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20PAL.png" group-title="ENTERTAINMENT",Sony PAL
+http://livebox.pro:80/live/Raj1234/Raj1234/6627.ts
+#EXTINF:-1 tvg-logo="https://d2ljy97uzhlwv2.cloudfront.net/sonypicturesnetworksindia/logo/10_258.png" group-title="ENTERTAINMENT",Sony WAH
+http://livebox.pro:80/live/Raj1234/Raj1234/4077.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NKXTzBQ6/soni-cul-fn.png" group-title="ENTERTAINMENT",Sony Kal
+https://wurlsonypicturestv.global.transmit.live/hls/68deeb1c0238cda82df543dd/v1/spt_sonykal_1/lg_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20AATH.png" group-title="ENTERTAINMENT",Sony Aath ⭐
+http://103.89.248.10:8082/Sony-Aath/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://d2ljy97uzhlwv2.cloudfront.net/sonypicturesnetworksindia/logo/36_260.png" group-title="ENTERTAINMENT",Sony Marathi
+http://livebox.pro:80/live/Raj1234/Raj1234/5856.ts
+#EXTINF:-1 tvg-logo="https://d2ljy97uzhlwv2.cloudfront.net/sonypicturesnetworksindia/logo/SONY-VIZHA-HD.png" group-title="ENTERTAINMENT",Sony Vizha HD
+http://livebox.pro:80/live/Raj1234/Raj1234/825633.ts
+#EXTINF:-1 tvg-logo="https://d2ljy97uzhlwv2.cloudfront.net/sonypicturesnetworksindia/logo/34_252.png" group-title="ENTERTAINMENT",Sony Pix HD
+http://livebox.pro:80/live/Raj1234/Raj1234/98846.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a7/Star_Bharat_Logo.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" group-title="ENTERTAINMENT",Star Bharat HD
+http://livebox.pro:80/live/Raj1234/Raj1234/98855.ts
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Star_Jalsha_HD_2019_Chalo_Paltai.png" group-title="ENTERTAINMENT",Star Jalsha HD
+http://103.89.248.10:8082/Star_jalsha/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Star_Jalsha_HD_2019_Chalo_Paltai.png" group-title="ENTERTAINMENT",Jalsha Movies HD
+http://103.89.248.10:8082/JALSHA-MOVIES/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/32/StarPlus_logo_%282018%29.png/" group-title="ENTERTAINMENT",Star Plus HD
+http://livebox.pro:80/live/Raj1234/Raj1234/9366.ts
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/31/2/star-gold-logo-png_seeklogo-310758.png" group-title="ENTERTAINMENT",Star Gold HD ⭐
+http://103.89.248.10:8082/star-gold/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2f/Star_Gold_Select_HD.svg/revision/latest?cb=20211216003639" group-title="ENTERTAINMENT",Star Gold Select HD
+http://livebox.pro:80/live/Raj1234/Raj1234/98859.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Star_Gold_2.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" group-title="ENTERTAINMENT",Star Gold 2 HD
+http://livebox.pro:80/live/Raj1234/Raj1234/157081.ts
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logofanon2/images/0/08/Star_Gold_Thrills_2023.webp/revision/latest?cb=20251021154943" group-title="ENTERTAINMENT",Star Gold Thrills
+http://livebox.pro:80/live/Raj1234/Raj1234/773735.ts
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logosfake/images/8/8a/Star_Gold_Romance.svg/revision/latest?cb=20250104000253" group-title="ENTERTAINMENT",Star Gold Romance
+http://livebox.pro:80/live/Raj1234/Raj1234/972.ts
+#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/3840px-STAR_Movies_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" group-title="ENTERTAINMENT",Star Movies HD
+http://livebox.pro:80/live/Raj1234/Raj1234/98842.ts
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/SMSHD.png/revision/latest?cb=20240313194438" group-title="ENTERTAINMENT",Star Movies Select HD
+http://livebox.pro:80/live/Raj1234/Raj1234/98843.ts
